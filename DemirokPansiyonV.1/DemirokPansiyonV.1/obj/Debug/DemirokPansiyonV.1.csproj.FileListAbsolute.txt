@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\bin\Debug\DemirokPansiyonV.1.exe.config
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\bin\Debug\DemirokPansiyonV.1.exe
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\bin\Debug\DemirokPansiyonV.1.pdb
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV.1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.Properties.Resources.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV.1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV.1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV.1.exe
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV.1.pdb
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FRMYeniMusteri.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FrmAdminGiris.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FRMAnaForm.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FrmOdalar.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FrmMusteriler.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FrmGelirGider.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FrmStoklar.resources
+C:\Users\user\source\repos\DemirokPansiyonV.1\DemirokPansiyonV.1\obj\Debug\DemirokPansiyonV._1.FrmFaturalar.resources
